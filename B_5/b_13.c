@@ -14,4 +14,6 @@ int main(void)
     }
 
     printf("total = %d\n", total);
+
+    return 0;
 }
